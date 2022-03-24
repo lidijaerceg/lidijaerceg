@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lidijaerceg
+- 👀 I’m interested in lets say coding
+- 🌱 I’m currently learning applied software engineering
